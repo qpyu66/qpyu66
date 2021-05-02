@@ -1,7 +1,8 @@
 ### Hi there 👋
 <br>
 
-### 🖥 Tech Stack
+<p align="center"> ### 🖥 Tech Stack   </p>
+   
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -28,21 +29,32 @@
 </p>
 
 
-#### 🎓 in university
+<p align="center"> #### 🎓 in university  </p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry_Pi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
 
 
 
+<p align="center"> #### github stats  </p>
+
 <div id="main" align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=qpyu66&hide=stars,contribs&count_private=true&show_icons=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=qpyu66&hide=stars,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
+
+
+
+
+<p align="center"> #### About Me  </p>
+<p align="center">
+    <a href="https://bsssss.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="mailto:qpyu66@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qpyu66@gmail.com"/></a>
+</p>
+
 
 
 <!--
