@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-<h3 align="center">  🖥 Tech Stack   </h3>
+###  🖥 Tech Stack   
    
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -29,7 +29,7 @@
 </p>
 
 
-<h4 align="center">   🎓 in university  </h4>
+####  🎓 in university  
 
 <p align="center">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
@@ -39,7 +39,7 @@
 
 
 
-<h3 align="center">   github stats  </h3>
+###  🐱 github stats  
 
 <div id="main" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=qpyu66&hide=stars,contribs&count_private=true&show_icons=true"
@@ -49,7 +49,7 @@
 
 
 
-<h3 align="center">   About Me  </h3>
+###  💁‍♀️ About Me  
 <p align="center">
     <a href="https://bsssss.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="mailto:qpyu66@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qpyu66@gmail.com"/></a>
