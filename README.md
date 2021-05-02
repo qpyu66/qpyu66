@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-### 💻 Tech Stack
+### 🖥 Tech Stack
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -28,6 +28,15 @@
 </p>
 
 
+#### 🎓 in university
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
+    
+</p>
+
+
 <!--
 **qpyu66/qpyu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,4 +50,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📖 study
+- 🏅 
 -->
