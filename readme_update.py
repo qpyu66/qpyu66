@@ -6,6 +6,9 @@ feed = feedparser.parse(tistory_uri+"/rss")
 markdown_text = """
 ### Hi there 👋
 <br>
+📖   Interest   <br>
+     - DevOps   <br>
+     - Server  
 
 ###  🐱 github stats  
 
@@ -22,7 +25,8 @@ markdown_text = """
 
 <br>
 
-📕 Latest Blog Posts
+### 📕 Latest Blog Posts   
+<br>
 """ # list of blog posts will be appended here
 
 lst = []
@@ -30,7 +34,7 @@ lst = []
 
 for i in feed['entries'][:3]:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
-    markdown_text += f"⊙ [{i['title']}]({i['link']}) - {dt}<br>\n"
+    markdown_text += f"## ⊙ [{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
 
 f = open("README.md",mode="w", encoding="utf-8")
