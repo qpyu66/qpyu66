@@ -4,10 +4,10 @@ tistory_uri="https://bsssss.tistory.com/" #Your blog address here
 feed = feedparser.parse(tistory_uri+"/rss")
 
 markdown_text = """
-### Hi there 👋
-<br>
-### 📖   Interest   <br>
-     - DevOps   <br>
+### Hi there 👋   
+
+### 📖   Interest   
+     - DevOps   
      - Server  
 
 ###  🐱 github stats  
