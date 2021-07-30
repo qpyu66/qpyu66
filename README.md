@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[sql] case - when - then - else - end](https://bsssss.tistory.com/640) - Jul 30, 2021<br>
+[[AWS] Network ACL](https://bsssss.tistory.com/633) - Jul 30, 2021<br>
 [CIDR block](https://bsssss.tistory.com/627) - Jul 23, 2021<br>
-[[DB] Star Schema / Snowflake schema / Fact Table / Dimension Table](https://bsssss.tistory.com/634) - Jul 22, 2021<br>
-[[SQL] UNION과 UNION ALL의 차이](https://bsssss.tistory.com/632) - Jul 22, 2021<br>
