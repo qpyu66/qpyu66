@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[SQL] COALESCE , LEAD, LAG 함수 (NULL이 아닌 첫번째 값, 이전값, 다음값)](https://bsssss.tistory.com/615) - Jul 30, 2021<br>
 [[sql] case - when - then - else - end](https://bsssss.tistory.com/640) - Jul 30, 2021<br>
 [[AWS] Network ACL](https://bsssss.tistory.com/633) - Jul 30, 2021<br>
-[CIDR block](https://bsssss.tistory.com/627) - Jul 23, 2021<br>
