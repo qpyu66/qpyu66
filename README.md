@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[docker 시스템 정리 prune](https://bsssss.tistory.com/654) - Aug 12, 2021<br>
 [[CSS] Uncaught SyntaxError: Unexpected token '{'](https://bsssss.tistory.com/649) - Aug 10, 2021<br>
 [[jupyter lab] kernel restarting - 커널 죽음](https://bsssss.tistory.com/643) - Aug 03, 2021<br>
-[[SQL] COALESCE , LEAD, LAG 함수 (NULL이 아닌 첫번째 값, 이전값, 다음값)](https://bsssss.tistory.com/615) - Jul 30, 2021<br>
