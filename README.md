@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[gitlab] gitlab 500 error 원인 및 해결](https://bsssss.tistory.com/655) - Aug 13, 2021<br>
 [docker 시스템 정리 prune](https://bsssss.tistory.com/654) - Aug 12, 2021<br>
-[[CSS] Uncaught SyntaxError: Unexpected token '{'](https://bsssss.tistory.com/649) - Aug 10, 2021<br>
-[[jupyter lab] kernel restarting - 커널 죽음](https://bsssss.tistory.com/643) - Aug 03, 2021<br>
+[[linux] 리눅스 디스크 용량 확인하기 df](https://bsssss.tistory.com/659) - Aug 12, 2021<br>
