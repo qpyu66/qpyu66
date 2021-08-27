@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[jquery] checkbox 체크여부 확인하기](https://bsssss.tistory.com/688) - Aug 25, 2021<br>
 [[spring] Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true](https://bsssss.tistory.com/681) - Aug 24, 2021<br>
 [[linux] bash conda: command not found - conda 설치하기](https://bsssss.tistory.com/672) - Aug 20, 2021<br>
-[IYKYK -  If you know, you know.](https://bsssss.tistory.com/673) - Aug 20, 2021<br>
