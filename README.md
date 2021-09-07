@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[jenkins Failed to connect to repository - private repository 안됨](https://bsssss.tistory.com/696) - Aug 31, 2021<br>
-[[jquery] checkbox 체크여부 확인하기](https://bsssss.tistory.com/688) - Aug 25, 2021<br>
-[[spring] Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true](https://bsssss.tistory.com/681) - Aug 24, 2021<br>
+[PageRequest - PageableDefault 설정 변경](https://bsssss.tistory.com/705) - Sep 06, 2021<br>
+[ajax 사용 후 이벤트 작동하지 않을 때](https://bsssss.tistory.com/704) - Sep 06, 2021<br>
+[Querydsl like, contains 차이](https://bsssss.tistory.com/690) - Sep 06, 2021<br>
