@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[Page 1 of 1 containing UNKNOWN instances](https://bsssss.tistory.com/707) - Sep 06, 2021<br>
 [PageRequest - PageableDefault 설정 변경](https://bsssss.tistory.com/705) - Sep 06, 2021<br>
 [ajax 사용 후 이벤트 작동하지 않을 때](https://bsssss.tistory.com/704) - Sep 06, 2021<br>
-[Querydsl like, contains 차이](https://bsssss.tistory.com/690) - Sep 06, 2021<br>
