@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[pyspark] union can only be performed on tables with the same number of columns](https://bsssss.tistory.com/729) - Sep 16, 2021<br>
 [[pyspark] Cannot Call methods on a stopped SparkContext](https://bsssss.tistory.com/727) - Sep 16, 2021<br>
 [[javascript] 현재 날짜 시간 구하기 date format ( yyyy-MM-dd, yyyy-MM-dd hh:mm:ss )](https://bsssss.tistory.com/712) - Sep 09, 2021<br>
-[[gitlab] clone url 도메인 변경 (외부 URL 구성)](https://bsssss.tistory.com/711) - Sep 09, 2021<br>
