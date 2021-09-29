@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[She's going places. - 그녀가 성공하겠어요](https://bsssss.tistory.com/734) - Sep 23, 2021<br>
-[select limit ? offset ? (페이징 활용)](https://bsssss.tistory.com/733) - Sep 23, 2021<br>
-[[pyspark] union can only be performed on tables with the same number of columns](https://bsssss.tistory.com/729) - Sep 16, 2021<br>
+[dataTable 특정 열에만 정렬 없애기](https://bsssss.tistory.com/749) - Sep 28, 2021<br>
+[dataTable 데이터 변경시 테이블 다시 그리기](https://bsssss.tistory.com/748) - Sep 28, 2021<br>
+[[mysql] cannot check if timestamp is between varchar(23) and varchar(23) - 날짜 조회 쿼리](https://bsssss.tistory.com/747) - Sep 28, 2021<br>
