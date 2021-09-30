@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[주소가 다른 서버에서 서버로 파일 전송 scp](https://bsssss.tistory.com/554) - Sep 29, 2021<br>
 [dataTable 특정 열에만 정렬 없애기](https://bsssss.tistory.com/749) - Sep 28, 2021<br>
 [dataTable 데이터 변경시 테이블 다시 그리기](https://bsssss.tistory.com/748) - Sep 28, 2021<br>
-[[mysql] cannot check if timestamp is between varchar(23) and varchar(23) - 날짜 조회 쿼리](https://bsssss.tistory.com/747) - Sep 28, 2021<br>
