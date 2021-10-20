@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.](https://bsssss.tistory.com/761) - Oct 07, 2021<br>
-[[python] timestamp 값 년월일로 변환](https://bsssss.tistory.com/759) - Oct 01, 2021<br>
-[주소가 다른 서버에서 서버로 파일 전송 scp](https://bsssss.tistory.com/554) - Sep 29, 2021<br>
+[[java] spring cors 해결](https://bsssss.tistory.com/775) - Oct 19, 2021<br>
+[java.net.ProtocolException: cannot write to a URLConnection if doOutput=false - call setDoOutput(true)](https://bsssss.tistory.com/772) - Oct 19, 2021<br>
+[java selenium input 값 입력 및 버튼 클릭](https://bsssss.tistory.com/769) - Oct 18, 2021<br>
