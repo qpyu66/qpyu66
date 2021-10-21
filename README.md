@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[attributeerror module 'tweepy' has no attribute 'streamlistener' konlpy](https://bsssss.tistory.com/781) - Oct 20, 2021<br>
+[[Intellij]  python interpreter configure 설정하기 (자바에서 파이썬 실행하기)](https://bsssss.tistory.com/776) - Oct 20, 2021<br>
 [[java] spring cors 해결](https://bsssss.tistory.com/775) - Oct 19, 2021<br>
-[java.net.ProtocolException: cannot write to a URLConnection if doOutput=false - call setDoOutput(true)](https://bsssss.tistory.com/772) - Oct 19, 2021<br>
-[java selenium input 값 입력 및 버튼 클릭](https://bsssss.tistory.com/769) - Oct 18, 2021<br>
