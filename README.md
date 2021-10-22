@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[Intellij] jupyter notebook](https://bsssss.tistory.com/782) - Oct 20, 2021<br>
 [attributeerror module 'tweepy' has no attribute 'streamlistener' konlpy](https://bsssss.tistory.com/781) - Oct 20, 2021<br>
 [[Intellij]  python interpreter configure 설정하기 (자바에서 파이썬 실행하기)](https://bsssss.tistory.com/776) - Oct 20, 2021<br>
-[[java] spring cors 해결](https://bsssss.tistory.com/775) - Oct 19, 2021<br>
