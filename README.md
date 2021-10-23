@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[[Intellij] jupyter notebook](https://bsssss.tistory.com/782) - Oct 20, 2021<br>
-[attributeerror module 'tweepy' has no attribute 'streamlistener' konlpy](https://bsssss.tistory.com/781) - Oct 20, 2021<br>
-[[Intellij]  python interpreter configure 설정하기 (자바에서 파이썬 실행하기)](https://bsssss.tistory.com/776) - Oct 20, 2021<br>
+[No JVM shared library file (libjvm.so) found. Try setting up the JAVA_HOME environment variable properly.](https://bsssss.tistory.com/787) - Oct 22, 2021<br>
+[SyntaxError: ('future feature print_function is not defined', ('__pyclasspath__/numpy/__init__.py', 107, 0, ''))](https://bsssss.tistory.com/786) - Oct 22, 2021<br>
+[[Intellij] Intellij에서 jupyter notebook 연결](https://bsssss.tistory.com/782) - Oct 20, 2021<br>
