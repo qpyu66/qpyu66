@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[No JVM shared library file (libjvm.so) found. Try setting up the JAVA_HOME environment variable properly.](https://bsssss.tistory.com/787) - Oct 22, 2021<br>
-[SyntaxError: ('future feature print_function is not defined', ('__pyclasspath__/numpy/__init__.py', 107, 0, ''))](https://bsssss.tistory.com/786) - Oct 22, 2021<br>
-[[Intellij] Intellij에서 jupyter notebook 연결](https://bsssss.tistory.com/782) - Oct 20, 2021<br>
+[django 설치 및 시작](https://bsssss.tistory.com/207) - Oct 25, 2021<br>
+[ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?](https://bsssss.tistory.com/790) - Oct 25, 2021<br>
+[우분투 apt-get install 중 404 Not Found](https://bsssss.tistory.com/788) - Oct 22, 2021<br>
