@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception](https://bsssss.tistory.com/795) - Oct 26, 2021<br>
 [django 설치 및 시작](https://bsssss.tistory.com/207) - Oct 25, 2021<br>
 [ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?](https://bsssss.tistory.com/790) - Oct 25, 2021<br>
-[우분투 apt-get install 중 404 Not Found](https://bsssss.tistory.com/788) - Oct 22, 2021<br>
