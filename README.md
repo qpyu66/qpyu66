@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[postgresql 사용자 계정에 권한 부여하기](https://bsssss.tistory.com/797) - Oct 27, 2021<br>
+[Java Selenium 페이지 이동 (크롤링하기)](https://bsssss.tistory.com/796) - Oct 27, 2021<br>
 [Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception](https://bsssss.tistory.com/795) - Oct 26, 2021<br>
-[django 설치 및 시작](https://bsssss.tistory.com/207) - Oct 25, 2021<br>
-[ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?](https://bsssss.tistory.com/790) - Oct 25, 2021<br>
