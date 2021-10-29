@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[python] python db select 문 출력하기](https://bsssss.tistory.com/800) - Oct 28, 2021<br>
+[[python] python + postgresql 연동하기](https://bsssss.tistory.com/799) - Oct 28, 2021<br>
 [postgresql 사용자 계정에 권한 부여하기](https://bsssss.tistory.com/797) - Oct 27, 2021<br>
-[Java Selenium 페이지 이동 (크롤링하기)](https://bsssss.tistory.com/796) - Oct 27, 2021<br>
-[Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception](https://bsssss.tistory.com/795) - Oct 26, 2021<br>
