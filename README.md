@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[python] TypeError: Object of type 'complex' is not JSON serializable](https://bsssss.tistory.com/812) - Oct 29, 2021<br>
+[No module named 'pyLDAvis.gensim'​](https://bsssss.tistory.com/811) - Oct 29, 2021<br>
 [[python] python db select 문 출력하기](https://bsssss.tistory.com/800) - Oct 28, 2021<br>
-[[python] python + postgresql 연동하기](https://bsssss.tistory.com/799) - Oct 28, 2021<br>
-[postgresql 사용자 계정에 권한 부여하기](https://bsssss.tistory.com/797) - Oct 27, 2021<br>
