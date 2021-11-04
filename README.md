@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[gitlab runner](https://bsssss.tistory.com/817) - Nov 02, 2021<br>
+[[Docker] private registry에 이미지 업로드 안됨 - Get https://localhost:5000/v2/: http: server gave HTTP response to HTTPS client](https://bsssss.tistory.com/819) - Nov 03, 2021<br>
+[[Gitlab] gitlab runner 생성하기](https://bsssss.tistory.com/817) - Nov 02, 2021<br>
 [[docker] 도커 방화벽 문제 docker0: iptables: No chain/target/match by that name.](https://bsssss.tistory.com/804) - Nov 01, 2021<br>
-[application.properties 에 html 폴더 구성 가능하게 하기](https://bsssss.tistory.com/815) - Nov 01, 2021<br>
