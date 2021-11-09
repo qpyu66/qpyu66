@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[element is not attached to the page document](https://bsssss.tistory.com/822) - Nov 04, 2021<br>
+[[Gitlab] gitlab cicd 사용해  docker image 배포](https://bsssss.tistory.com/820) - Nov 03, 2021<br>
 [[Docker] private registry에 이미지 업로드 안됨 - Get https://localhost:5000/v2/: http: server gave HTTP response to HTTPS client](https://bsssss.tistory.com/819) - Nov 03, 2021<br>
-[[Gitlab] gitlab runner 생성하기](https://bsssss.tistory.com/817) - Nov 02, 2021<br>
-[[docker] 도커 방화벽 문제 docker0: iptables: No chain/target/match by that name.](https://bsssss.tistory.com/804) - Nov 01, 2021<br>
