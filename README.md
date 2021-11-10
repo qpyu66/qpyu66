@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[k8s] [ERROR Swap]: running with swap on is not supported. Please disable swap](https://bsssss.tistory.com/825) - Nov 09, 2021<br>
 [element is not attached to the page document](https://bsssss.tistory.com/822) - Nov 04, 2021<br>
 [[Gitlab] gitlab cicd 사용해  docker image 배포](https://bsssss.tistory.com/820) - Nov 03, 2021<br>
-[[Docker] private registry에 이미지 업로드 안됨 - Get https://localhost:5000/v2/: http: server gave HTTP response to HTTPS client](https://bsssss.tistory.com/819) - Nov 03, 2021<br>
