@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[ipynb 파일을 py 파일로 변환하기 (주피터노트북파일 파이썬 파일로 변환)](https://bsssss.tistory.com/168) - Nov 10, 2021<br>
+[[konlpy error] SystemError: java.nio.file.InvalidPathException: Illegal char <*> at index 63: D:\Users\Pycharm\Intellijpy\venv\lib\site-packages\konlpy\java\*](https://bsssss.tistory.com/826) - Nov 10, 2021<br>
 [[k8s] [ERROR Swap]: running with swap on is not supported. Please disable swap](https://bsssss.tistory.com/825) - Nov 09, 2021<br>
-[element is not attached to the page document](https://bsssss.tistory.com/822) - Nov 04, 2021<br>
-[[Gitlab] gitlab cicd 사용해  docker image 배포](https://bsssss.tistory.com/820) - Nov 03, 2021<br>
