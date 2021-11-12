@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[ipynb 파일을 py 파일로 변환하기 (주피터노트북파일 파이썬 파일로 변환)](https://bsssss.tistory.com/168) - Nov 10, 2021<br>
-[[konlpy error] SystemError: java.nio.file.InvalidPathException: Illegal char <*> at index 63: D:\Users\Pycharm\Intellijpy\venv\lib\site-packages\konlpy\java\*](https://bsssss.tistory.com/826) - Nov 10, 2021<br>
-[[k8s] [ERROR Swap]: running with swap on is not supported. Please disable swap](https://bsssss.tistory.com/825) - Nov 09, 2021<br>
+[[python] 명사 분석에서 한글자 제거하기](https://bsssss.tistory.com/839) - Nov 11, 2021<br>
+[postgresql Schema 접근에러](https://bsssss.tistory.com/836) - Nov 11, 2021<br>
+[postgresql 테이블 lock 조회](https://bsssss.tistory.com/834) - Nov 11, 2021<br>
