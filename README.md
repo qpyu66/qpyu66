@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[postgresql 테이블 데이터 모두 삭제 (truncate)](https://bsssss.tistory.com/842) - Nov 15, 2021<br>
+[파이썬 2차원 리스트를 1차원 리스트로 만들기](https://bsssss.tistory.com/838) - Nov 15, 2021<br>
 [[python] 명사 분석에서 한글자 제거하기](https://bsssss.tistory.com/839) - Nov 11, 2021<br>
-[postgresql Schema 접근에러](https://bsssss.tistory.com/836) - Nov 11, 2021<br>
-[postgresql 테이블 lock 조회](https://bsssss.tistory.com/834) - Nov 11, 2021<br>
