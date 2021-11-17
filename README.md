@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[python 실행 시 매개변수 인자 전달하기 - sys argv](https://bsssss.tistory.com/843) - Nov 17, 2021<br>
+[No module named 'mysql'](https://bsssss.tistory.com/848) - Nov 16, 2021<br>
 [postgresql dt did not find any relations](https://bsssss.tistory.com/833) - Nov 15, 2021<br>
-[postgresql 테이블 데이터 모두 삭제 (truncate)](https://bsssss.tistory.com/842) - Nov 15, 2021<br>
-[파이썬 2차원 리스트를 1차원 리스트로 만들기](https://bsssss.tistory.com/838) - Nov 15, 2021<br>
