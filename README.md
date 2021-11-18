@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[bash: !bash: event not found](https://bsssss.tistory.com/853) - Nov 17, 2021<br>
 [python 실행 시 매개변수 인자 전달하기 - sys argv](https://bsssss.tistory.com/843) - Nov 17, 2021<br>
 [No module named 'mysql'](https://bsssss.tistory.com/848) - Nov 16, 2021<br>
-[postgresql dt did not find any relations](https://bsssss.tistory.com/833) - Nov 15, 2021<br>
