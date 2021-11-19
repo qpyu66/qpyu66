@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[postgresql 최대 동시 접속자 수를 초과했습니다 해결](https://bsssss.tistory.com/859) - Nov 18, 2021<br>
+[리눅스에서 파이썬 가상환경 만들기](https://bsssss.tistory.com/857) - Nov 18, 2021<br>
 [bash: !bash: event not found](https://bsssss.tistory.com/853) - Nov 17, 2021<br>
-[python 실행 시 매개변수 인자 전달하기 - sys argv](https://bsssss.tistory.com/843) - Nov 17, 2021<br>
-[No module named 'mysql'](https://bsssss.tistory.com/848) - Nov 16, 2021<br>
