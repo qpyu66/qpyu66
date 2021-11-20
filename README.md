@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[docker push denied: requested access to the resource is denied](https://bsssss.tistory.com/860) - Nov 19, 2021<br>
 [postgresql 최대 동시 접속자 수를 초과했습니다 해결](https://bsssss.tistory.com/859) - Nov 18, 2021<br>
 [리눅스에서 파이썬 가상환경 만들기](https://bsssss.tistory.com/857) - Nov 18, 2021<br>
-[bash: !bash: event not found](https://bsssss.tistory.com/853) - Nov 17, 2021<br>
