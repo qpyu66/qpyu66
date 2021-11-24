@@ -23,5 +23,5 @@
 ### 📕 Latest Blog Posts   
 <br>
 [파이썬에서 dataframe to postgresql 저장하기](https://bsssss.tistory.com/861) - Nov 21, 2021<br>
-[docker push denied: requested access to the resource is denied](https://bsssss.tistory.com/860) - Nov 19, 2021<br>
-[postgresql 최대 동시 접속자 수를 초과했습니다 해결](https://bsssss.tistory.com/859) - Nov 18, 2021<br>
+[Bootstrap's JavaScript requires jQuery version 1.9.1 or higher,](https://bsssss.tistory.com/864) - Nov 19, 2021<br>
+[도커 레지스트리에 이미지 올리기 - docker push denied: requested access to the resource is denied](https://bsssss.tistory.com/860) - Nov 19, 2021<br>
