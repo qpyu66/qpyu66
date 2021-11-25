@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[StringBuilder & System.out.println()](https://bsssss.tistory.com/866) - Nov 24, 2021<br>
+[postgresql id자동증가 -  sequence 만들기](https://bsssss.tistory.com/865) - Nov 24, 2021<br>
 [파이썬에서 dataframe to postgresql 저장하기](https://bsssss.tistory.com/861) - Nov 21, 2021<br>
-[Bootstrap's JavaScript requires jQuery version 1.9.1 or higher,](https://bsssss.tistory.com/864) - Nov 19, 2021<br>
-[도커 레지스트리에 이미지 올리기 - docker push denied: requested access to the resource is denied](https://bsssss.tistory.com/860) - Nov 19, 2021<br>
