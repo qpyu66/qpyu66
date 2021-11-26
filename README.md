@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[python] Please use the NLTK Downloader to obtain the resource](https://bsssss.tistory.com/871) - Nov 26, 2021<br>
+[스프링 gradle log 저장하기](https://bsssss.tistory.com/869) - Nov 25, 2021<br>
 [StringBuilder & System.out.println()](https://bsssss.tistory.com/866) - Nov 24, 2021<br>
-[postgresql id자동증가 -  sequence 만들기](https://bsssss.tistory.com/865) - Nov 24, 2021<br>
-[파이썬에서 dataframe to postgresql 저장하기](https://bsssss.tistory.com/861) - Nov 21, 2021<br>
