@@ -23,5 +23,5 @@
 ### 📕 Latest Blog Posts   
 <br>
 [[python] Please use the NLTK Downloader to obtain the resource](https://bsssss.tistory.com/871) - Nov 26, 2021<br>
-[스프링 gradle log 저장하기](https://bsssss.tistory.com/869) - Nov 25, 2021<br>
+[스프링 프로젝트 log 저장하기](https://bsssss.tistory.com/869) - Nov 25, 2021<br>
 [StringBuilder & System.out.println()](https://bsssss.tistory.com/866) - Nov 24, 2021<br>
