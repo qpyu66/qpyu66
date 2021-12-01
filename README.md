@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[ids for this class must be manually assigned before calling save()](https://bsssss.tistory.com/875) - Nov 30, 2021<br>
+[Failed to complete request: java.lang.NumberFormatException: For input string: ""](https://bsssss.tistory.com/874) - Nov 30, 2021<br>
 [우분투 콘솔에서 한글 깨짐](https://bsssss.tistory.com/868) - Nov 30, 2021<br>
-[[python] Please use the NLTK Downloader to obtain the resource](https://bsssss.tistory.com/871) - Nov 26, 2021<br>
-[스프링 프로젝트 log 저장하기](https://bsssss.tistory.com/869) - Nov 25, 2021<br>
