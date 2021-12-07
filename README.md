@@ -23,5 +23,5 @@
 ### 📕 Latest Blog Posts   
 <br>
 [[JPA] exception just for purpose of providing stack trace](https://bsssss.tistory.com/876) - Nov 30, 2021<br>
-[ids for this class must be manually assigned before calling save()](https://bsssss.tistory.com/875) - Nov 30, 2021<br>
 [Failed to complete request: java.lang.NumberFormatException: For input string: ""](https://bsssss.tistory.com/874) - Nov 30, 2021<br>
+[우분투 콘솔에서 한글 깨짐](https://bsssss.tistory.com/868) - Nov 30, 2021<br>
