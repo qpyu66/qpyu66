@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[postgresql sequence 시퀀스 만들기](https://bsssss.tistory.com/878) - Dec 07, 2021<br>
 [[JPA] exception just for purpose of providing stack trace](https://bsssss.tistory.com/876) - Nov 30, 2021<br>
 [Failed to complete request: java.lang.NumberFormatException: For input string: ""](https://bsssss.tistory.com/874) - Nov 30, 2021<br>
-[우분투 콘솔에서 한글 깨짐](https://bsssss.tistory.com/868) - Nov 30, 2021<br>
