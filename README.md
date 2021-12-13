@@ -23,5 +23,5 @@
 ### 📕 Latest Blog Posts   
 <br>
 [[nodejs] SyntaxError: Cannot use import statement outside a module](https://bsssss.tistory.com/890) - Dec 11, 2021<br>
+[window yarn 설치](https://bsssss.tistory.com/889) - Dec 10, 2021<br>
 [[Java] Jsoup HTTP error fetching URL. Status=405](https://bsssss.tistory.com/887) - Dec 10, 2021<br>
-[[nodejs] error cannot find module 'config'](https://bsssss.tistory.com/886) - Dec 09, 2021<br>
