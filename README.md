@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[Docker 로 Redis 설치하기](https://bsssss.tistory.com/894) - Dec 28, 2021<br>
+[Whitelabel Error Page](https://bsssss.tistory.com/901) - Dec 27, 2021<br>
 [[spring] If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.](https://bsssss.tistory.com/906) - Dec 24, 2021<br>
-[postgresql 현재 db 와 연결된 쿼리 확인하기](https://bsssss.tistory.com/903) - Dec 24, 2021<br>
-[[postgresql] if the message is not readable, please check database logs and/or host, port, dbname, user, password, pg_hba.conf](https://bsssss.tistory.com/905) - Dec 22, 2021<br>
