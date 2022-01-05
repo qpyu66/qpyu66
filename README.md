@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[VDI VHD VMDK 파일의 차이점](https://bsssss.tistory.com/914) - Jan 04, 2022<br>
 [[node] nodemon 설치하기](https://bsssss.tistory.com/883) - Jan 04, 2022<br>
 [node cannot find module](https://bsssss.tistory.com/885) - Jan 03, 2022<br>
-[Docker 로 Redis 설치하기](https://bsssss.tistory.com/894) - Dec 28, 2021<br>
