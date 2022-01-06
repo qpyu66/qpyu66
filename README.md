@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[virtualbox NAT네트워크 고정 ip 할당시키기(포트포워딩)](https://bsssss.tistory.com/46) - Jan 05, 2022<br>
 [VDI VHD VMDK 파일의 차이점](https://bsssss.tistory.com/914) - Jan 04, 2022<br>
 [[node] nodemon 설치하기](https://bsssss.tistory.com/883) - Jan 04, 2022<br>
-[node cannot find module](https://bsssss.tistory.com/885) - Jan 03, 2022<br>
