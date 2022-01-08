@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager](https://bsssss.tistory.com/923) - Jan 07, 2022<br>
+[pip install *.whl is not a supported wheel on this platform](https://bsssss.tistory.com/922) - Jan 07, 2022<br>
 [파이썬 설치 경로 찾기](https://bsssss.tistory.com/917) - Jan 06, 2022<br>
-[virtualbox NAT네트워크 고정 ip 할당시키기(포트포워딩)](https://bsssss.tistory.com/46) - Jan 05, 2022<br>
-[VDI VHD VMDK 파일의 차이점](https://bsssss.tistory.com/914) - Jan 04, 2022<br>
