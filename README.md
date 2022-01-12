@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[잠금 파일 /var/lib/dpkg/lock-frontend 파일을 열 수 없습니다 - open (13: 허가 거부)](https://bsssss.tistory.com/925) - Jan 12, 2022<br>
 [우분투에 도커 설치하기](https://bsssss.tistory.com/926) - Jan 11, 2022<br>
 [우분투 의존성 문제](https://bsssss.tistory.com/924) - Jan 10, 2022<br>
-[우분투 환경에서 JAVA_HOME 설정](https://bsssss.tistory.com/928) - Jan 09, 2022<br>
