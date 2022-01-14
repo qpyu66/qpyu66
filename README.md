@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[넷기어 BR 200 VPN 연결](https://bsssss.tistory.com/940) - Jan 13, 2022<br>
 [chromedriver 사용 시 Checking your browser before accessing URL](https://bsssss.tistory.com/937) - Jan 12, 2022<br>
 [잠금 파일 /var/lib/dpkg/lock-frontend 파일을 열 수 없습니다 - open (13: 허가 거부)](https://bsssss.tistory.com/925) - Jan 12, 2022<br>
-[우분투에 도커 설치하기](https://bsssss.tistory.com/926) - Jan 11, 2022<br>
