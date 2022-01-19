@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[postgresql] duplicated key value violates unique constraint](https://bsssss.tistory.com/942) - Jan 18, 2022<br>
 [Mysql - Public Key Retrieval is not allowed](https://bsssss.tistory.com/944) - Jan 17, 2022<br>
 [쉘 스크립트에서 프로세스의 PID 값만 가져오기](https://bsssss.tistory.com/935) - Jan 17, 2022<br>
-[넷기어 BR 200 VPN 연결](https://bsssss.tistory.com/940) - Jan 13, 2022<br>
