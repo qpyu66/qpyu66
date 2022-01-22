@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[ssh -  ETAclient_loop: send disconnect: Connection aborted / Broken pipe](https://bsssss.tistory.com/953) - Jan 21, 2022<br>
 [[Thymeleaf] The layout:decorator/data-layout-decorator processor has been deprecated and will be removed in the next major version of the layout dialect.](https://bsssss.tistory.com/951) - Jan 20, 2022<br>
 [Mysql 사용자 생성/조회/추가/삭제](https://bsssss.tistory.com/945) - Jan 19, 2022<br>
-[[postgresql] duplicated key value violates unique constraint](https://bsssss.tistory.com/942) - Jan 18, 2022<br>
