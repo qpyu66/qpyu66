@@ -1,8 +1,7 @@
 
 ### Hi there 👋   
 
-### 📖   Interest  
-     - BackEnd
+### 📖   Interest   
      - DevOps   
      - Server  
 
