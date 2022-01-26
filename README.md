@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[python] 'in <string>' requires string as left operand, not float](https://bsssss.tistory.com/970) - Jan 26, 2022<br>
+[[python] dataframe 컬럼명 변경하기](https://bsssss.tistory.com/962) - Jan 26, 2022<br>
 [[Javascript MIME type]text/javascript와 application/javascript의 차이점](https://bsssss.tistory.com/961) - Jan 24, 2022<br>
-[cdn 으로 불러온 js 라이브러리를 인식하지 못하는 경우 - Unresolved function or method $()](https://bsssss.tistory.com/947) - Jan 23, 2022<br>
-[docker: Error response from daemon: exec: "nvidia-container-runtime-hook": executable file not found in $PATH.](https://bsssss.tistory.com/949) - Jan 22, 2022<br>
