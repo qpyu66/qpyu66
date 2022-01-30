@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[JPA]No results returned by the Query error in PostgreSQL](https://bsssss.tistory.com/939) - Jan 29, 2022<br>
 [[python] dataframe 숫자만 추출, 숫자+문자 추출 (데이터 전처리)](https://bsssss.tistory.com/963) - Jan 26, 2022<br>
 [[python] 'in <string>' requires string as left operand, not float](https://bsssss.tistory.com/970) - Jan 26, 2022<br>
-[[python] dataframe 컬럼명 변경하기](https://bsssss.tistory.com/962) - Jan 26, 2022<br>
