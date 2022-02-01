@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[우분투에서 chromedriver, selenium 설치 및 사용](https://bsssss.tistory.com/936) - Jan 31, 2022<br>
 [[SQL] postgresql 숫자 포함한 , 숫자 포함하지 않은 행 추출](https://bsssss.tistory.com/938) - Jan 30, 2022<br>
 [[JPA]No results returned by the Query error in PostgreSQL](https://bsssss.tistory.com/939) - Jan 29, 2022<br>
-[[python] dataframe 숫자만 추출, 숫자+문자 추출 (데이터 전처리)](https://bsssss.tistory.com/963) - Jan 26, 2022<br>
