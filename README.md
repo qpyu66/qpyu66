@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[python] 배열 뒤에서부터 출력 [::]](https://bsssss.tistory.com/973) - Feb 02, 2022<br>
 [[python error] 'euc_kr' codec can't decode byte 0xbf in position 2: illegal multibyte sequence](https://bsssss.tistory.com/972) - Feb 01, 2022<br>
 [우분투에서 chromedriver, selenium 설치 및 사용](https://bsssss.tistory.com/936) - Jan 31, 2022<br>
-[[SQL] postgresql 숫자 포함한 , 숫자 포함하지 않은 행 추출](https://bsssss.tistory.com/938) - Jan 30, 2022<br>
