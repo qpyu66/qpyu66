@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[Linux] Docker로 그라파나 Grafana 설치하기](https://bsssss.tistory.com/954) - Feb 03, 2022<br>
 [[python] 배열 뒤에서부터 출력 [::]](https://bsssss.tistory.com/973) - Feb 02, 2022<br>
 [[python error] 'euc_kr' codec can't decode byte 0xbf in position 2: illegal multibyte sequence](https://bsssss.tistory.com/972) - Feb 01, 2022<br>
-[우분투에서 chromedriver, selenium 설치 및 사용](https://bsssss.tistory.com/936) - Jan 31, 2022<br>
