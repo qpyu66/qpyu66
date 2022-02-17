@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[방화벽 설정 및 중지하기 firewall](https://bsssss.tistory.com/992) - Feb 16, 2022<br>
 [docker-compose 설치하기](https://bsssss.tistory.com/986) - Feb 15, 2022<br>
 [[linux error] FirewallD is not running](https://bsssss.tistory.com/990) - Feb 15, 2022<br>
-[[Ubuntu Error] E: Sub-process /usr/bin/dpkg returned an error code (1)](https://bsssss.tistory.com/984) - Feb 14, 2022<br>
