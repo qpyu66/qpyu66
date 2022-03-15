@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[psql 사용시 쉘 스크립트로 postgres password  바로접속](https://bsssss.tistory.com/934) - Mar 15, 2022<br>
 [북마크 내보내기](https://bsssss.tistory.com/1012) - Mar 14, 2022<br>
 [[Bootstrap5] me-auto 의미](https://bsssss.tistory.com/1005) - Mar 10, 2022<br>
-[[spring error] Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError](https://bsssss.tistory.com/459) - Mar 08, 2022<br>
