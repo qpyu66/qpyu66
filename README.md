@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[맥에서 자바 설치 경로 확인하기](https://bsssss.tistory.com/1025) - Mar 24, 2022<br>
 [맥에서 pip로 주피터 설치 시, command not found가 출력되는 경우 해결 방법](https://bsssss.tistory.com/1024) - Mar 21, 2022<br>
 [맥에서 주피터 노트북 설치하기](https://bsssss.tistory.com/1023) - Mar 20, 2022<br>
-[[spring] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s216ms).](https://bsssss.tistory.com/1011) - Mar 17, 2022<br>
