@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[spring] @RequiredArgsConstructor](https://bsssss.tistory.com/1031) - Mar 25, 2022<br>
 [슈도코드 pesudo code](https://bsssss.tistory.com/1030) - Mar 25, 2022<br>
 [맥에서 자바 설치 경로 확인하기](https://bsssss.tistory.com/1025) - Mar 24, 2022<br>
-[맥에서 pip로 주피터 설치 시, command not found가 출력되는 경우 해결 방법](https://bsssss.tistory.com/1024) - Mar 21, 2022<br>
