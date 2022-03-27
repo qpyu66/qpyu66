@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[JPA] insertable, updatable](https://bsssss.tistory.com/682) - Mar 26, 2022<br>
 [[spring] @RequiredArgsConstructor](https://bsssss.tistory.com/1031) - Mar 25, 2022<br>
 [슈도코드 pesudo code](https://bsssss.tistory.com/1030) - Mar 25, 2022<br>
-[맥에서 자바 설치 경로 확인하기](https://bsssss.tistory.com/1025) - Mar 24, 2022<br>
