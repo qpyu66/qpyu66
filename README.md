@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[JPA와 Mybatis 비교 (ORM, SQL Mapper)](https://bsssss.tistory.com/529) - Mar 27, 2022<br>
 [[JPA] insertable, updatable](https://bsssss.tistory.com/682) - Mar 26, 2022<br>
 [[spring] @RequiredArgsConstructor](https://bsssss.tistory.com/1031) - Mar 25, 2022<br>
-[슈도코드 pesudo code](https://bsssss.tistory.com/1030) - Mar 25, 2022<br>
