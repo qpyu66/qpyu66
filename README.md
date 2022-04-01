@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[spring] (pgjdbc: autodetected server-encoding to be ISO-8859-1, if the message is not readable, please check database logs and/or host, port, dbname, user, password, pg_hba.conf)](https://bsssss.tistory.com/1034) - Mar 31, 2022<br>
 [[spring] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning](https://bsssss.tistory.com/1032) - Mar 31, 2022<br>
 [[Tomcat] JSESSIONID](https://bsssss.tistory.com/1018) - Mar 28, 2022<br>
-[JPA와 Mybatis 비교 (ORM, SQL Mapper)](https://bsssss.tistory.com/529) - Mar 27, 2022<br>
