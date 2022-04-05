@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[mysql 중복되는 데이터 항목 찾기 및 삭제하기](https://bsssss.tistory.com/1039) - Apr 05, 2022<br>
 [[spring] (pgjdbc: autodetected server-encoding to be ISO-8859-1, if the message is not readable, please check database logs and/or host, port, dbname, user, password, pg_hba.conf)](https://bsssss.tistory.com/1034) - Mar 31, 2022<br>
 [[spring] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning](https://bsssss.tistory.com/1032) - Mar 31, 2022<br>
-[[Tomcat] JSESSIONID](https://bsssss.tistory.com/1018) - Mar 28, 2022<br>
