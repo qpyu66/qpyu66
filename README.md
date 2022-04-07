@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[postgresql log 확인하기](https://bsssss.tistory.com/1035) - Apr 06, 2022<br>
 [DBeaver 에서 DB 데이터 내보내기](https://bsssss.tistory.com/1042) - Apr 06, 2022<br>
-[mysql 중복되는 데이터 항목 찾기 및 삭제하기](https://bsssss.tistory.com/1039) - Apr 05, 2022<br>
-[[spring] (pgjdbc: autodetected server-encoding to be ISO-8859-1, if the message is not readable, please check database logs and/or host, port, dbname, user, password, pg_hba.conf)](https://bsssss.tistory.com/1034) - Mar 31, 2022<br>
+[mysql/postgresql 중복되는 데이터 항목 찾기](https://bsssss.tistory.com/1039) - Apr 05, 2022<br>
