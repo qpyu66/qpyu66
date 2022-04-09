@@ -22,6 +22,6 @@
 
 ### 📕 Latest Blog Posts   
 <br>
+[[PostgreSQL] 중복 데이터 하나만 남기고 삭제하기 delete](https://bsssss.tistory.com/1047) - Apr 08, 2022<br>
 [postgresql 한글 포함 여부 확인하기](https://bsssss.tistory.com/1044) - Apr 07, 2022<br>
 [postgresql log 확인하기](https://bsssss.tistory.com/1035) - Apr 06, 2022<br>
-[DBeaver 에서 DB 데이터 내보내기](https://bsssss.tistory.com/1042) - Apr 06, 2022<br>
