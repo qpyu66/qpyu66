@@ -22,9 +22,9 @@
 
 ### 📕 Latest Blog Posts   
 <!-- BLOG-POST-LIST:START -->
+- [[spring] Cannot find symbol method](https://bsssss.tistory.com/1050)
+- [[spring] Querydsl 사용이유](https://bsssss.tistory.com/1051)
 - [Maximum Transmission Unit &lpar;MTU&rpar;](https://bsssss.tistory.com/1029)
-- [그로스 해킹](https://bsssss.tistory.com/1046)
-- [[PostgreSQL] 중복 데이터 하나만 남기고 삭제하기 delete](https://bsssss.tistory.com/1047)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <br>
