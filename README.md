@@ -21,13 +21,7 @@
 <br>
 
 ### 📕 Latest Blog Posts   
-<!-- BLOG-POST-LIST:START -->
-- [[spring] Cannot find symbol method](https://bsssss.tistory.com/1050)
-- [[spring] Querydsl 사용이유](https://bsssss.tistory.com/1051)
-- [Maximum Transmission Unit &lpar;MTU&rpar;](https://bsssss.tistory.com/1029)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- <br>
-[그로스 해킹](https://bsssss.tistory.com/1046) - Apr 09, 2022<br>
-[[PostgreSQL] 중복 데이터 하나만 남기고 삭제하기 delete](https://bsssss.tistory.com/1047) - Apr 08, 2022<br>
-[postgresql 한글 포함 여부 확인하기](https://bsssss.tistory.com/1044) - Apr 07, 2022<br> -->
+<br>
+[Intellij] JUnit Test 실행 시 No tests found for given includes https://bsssss.tistory.com/1062 <br>
+[spring] Cannot find symbol method https://bsssss.tistory.com/1050 <br>
+[spring] Querydsl 사용이유 https://bsssss.tistory.com/1051 <br>
