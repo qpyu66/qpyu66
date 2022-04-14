@@ -33,8 +33,10 @@ lst = []
 
 
 for i in feed['entries'][:3]:
-    dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
-    markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
+#     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
+#     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
+    markdown_text += f"{i['title']} {i['link']} <br>\n"
+
     print(i['link'], i['title'])
 
 f = open("README.md",mode="w", encoding="utf-8")
