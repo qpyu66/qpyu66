@@ -22,6 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-[Intellij] JUnit Test 실행 시 No tests found for given includes https://bsssss.tistory.com/1062 <br>
-[spring] Cannot find symbol method https://bsssss.tistory.com/1050 <br>
-[spring] Querydsl 사용이유 https://bsssss.tistory.com/1051 <br>
+<a href ="https://bsssss.tistory.com/1062"> [Intellij] JUnit Test 실행 시 No tests found for given includes </a> <br><a href ="https://bsssss.tistory.com/1050"> [spring] Cannot find symbol method </a> <br><a href ="https://bsssss.tistory.com/1051"> [spring] Querydsl 사용이유 </a> <br>
