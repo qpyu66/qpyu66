@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-<a href ="https://bsssss.tistory.com/1062"> [Intellij] JUnit Test 실행 시 No tests found for given includes </a> <br><a href ="https://bsssss.tistory.com/1050"> [spring] Cannot find symbol method </a> <br><a href ="https://bsssss.tistory.com/1051"> [spring] Querydsl 사용이유 </a> <br>
+<a href ="https://bsssss.tistory.com/1064"> WebFlux와 Mono, Flux </a> <br><a href ="https://bsssss.tistory.com/1062"> [Intellij] JUnit Test 실행 시 No tests found for given includes </a> <br><a href ="https://bsssss.tistory.com/1050"> [spring] @Test 빌드시 ' Cannot find symbol method' 에러 </a> <br>
