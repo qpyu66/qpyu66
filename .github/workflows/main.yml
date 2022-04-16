@@ -36,9 +36,12 @@ jobs:
 
       - name: Commit README
         run: |
-          git pull
+          git stash
+          
+          git pull origin master
+          git stash pop
+          
           git add .
-          git diff
           git config --local user.email "qpyu66@naver.com"
           git config --local user.name "Bae"
           git commit -m "Update README.md"
