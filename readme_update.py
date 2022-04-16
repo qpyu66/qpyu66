@@ -26,7 +26,7 @@ markdown_text = """
 <br>
 
 ### 📕 Latest Blog Posts   
-<br>
+
 """ # list of blog posts will be appended here
 
 lst = []
