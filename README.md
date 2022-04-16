@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 <br>
-<a href ="https://bsssss.tistory.com/1064"> WebFlux와 Mono, Flux </a> <br><a href ="https://bsssss.tistory.com/1062"> [Intellij] JUnit Test 실행 시 No tests found for given includes </a> <br><a href ="https://bsssss.tistory.com/1050"> [spring] @Test 빌드시 ' Cannot find symbol method' 에러 </a> <br>
+<a href ="https://bsssss.tistory.com/1066"> [WebFlux] Reactor map() 과 flatMap() 차이 </a> <br><a href ="https://bsssss.tistory.com/1064"> Spring WebFlux </a> <br><a href ="https://bsssss.tistory.com/1062"> [Intellij] JUnit Test 실행 시 No tests found for given includes </a> <br>
