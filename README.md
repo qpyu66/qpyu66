@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1084"> AWS 인증서 발급 받아 https 적용하기  - aws certificate https </a> <br><a href ="https://bsssss.tistory.com/1085"> [php] 출력문 비교 -  echo, print, print_r, var_dump </a> <br><a href ="https://bsssss.tistory.com/1074"> Reactive Streams </a> <br>
+<a href ="https://bsssss.tistory.com/1090"> [centos] You could try using --skip-broken to work around the problem </a> <br><a href ="https://bsssss.tistory.com/1084"> AWS 인증서 발급 받아 https 적용하기  - aws certificate https </a> <br><a href ="https://bsssss.tistory.com/1085"> [php] 출력문 비교 -  echo, print, print_r, var_dump </a> <br>
