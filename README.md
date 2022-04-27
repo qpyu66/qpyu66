@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1090"> [centos] You could try using --skip-broken to work around the problem </a> <br><a href ="https://bsssss.tistory.com/1084"> AWS 인증서 발급 받아 https 적용하기  - aws certificate https </a> <br><a href ="https://bsssss.tistory.com/1089"> MSA 설계 시 참고 툴 </a> <br>
+<a href ="https://bsssss.tistory.com/1104"> 메시지 브로커 / 이벤트 브로커 </a> <br><a href ="https://bsssss.tistory.com/1090"> [centos] You could try using --skip-broken to work around the problem </a> <br><a href ="https://bsssss.tistory.com/1084"> AWS 인증서 발급 받아 https 적용하기  - aws certificate https </a> <br>
