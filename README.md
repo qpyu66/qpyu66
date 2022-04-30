@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1114"> [AWS] CodeBuild를 사용해서  Github Push 감지해서 S3에 업로드하기 </a> <br><a href ="https://bsssss.tistory.com/1112"> [window] WSL2 Ubuntu 구동 시 Error: 0x800701bc WSL 2 </a> <br><a href ="https://bsssss.tistory.com/1104"> 메시지 브로커 / 이벤트 브로커 </a> <br>
+<a href ="https://bsssss.tistory.com/1119"> [AWS] The overall deployment failed because too many individual instances failed deployment, too few healthy instances are available for deployment, or some instances in your deployment group are experiencing problems. </a> <br><a href ="https://bsssss.tistory.com/1114"> [AWS] CodeBuild를 사용해서  Github Push 감지해서 S3에 업로드하기 </a> <br><a href ="https://bsssss.tistory.com/1112"> [window] WSL2 Ubuntu 구동 시 Error: 0x800701bc WSL 2 </a> <br>
