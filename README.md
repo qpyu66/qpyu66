@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1128"> [AWS] Missing credentials - please check if this instance was started with an IAM instance profile </a> <br><a href ="https://bsssss.tistory.com/1126"> Could not contact any CDS load balancers: https://rhui3.ap-northeast-2.aws.ce.redhat.com/pulp/content/. </a> <br><a href ="https://bsssss.tistory.com/1119"> [AWS] The overall deployment failed because too many individual instances failed deployment, too few healthy instances are available for deployment, or some instances in your deployment group are experiencing problems. </a> <br>
+<a href ="https://bsssss.tistory.com/1129"> [AWS] -bash: /home/ec2-user/.local/bin/aws: /usr/bin/python3: bad interpreter: No such file or directory </a> <br><a href ="https://bsssss.tistory.com/1128"> [AWS] Missing credentials - please check if this instance was started with an IAM instance profile </a> <br><a href ="https://bsssss.tistory.com/1126"> Could not contact any CDS load balancers: https://rhui3.ap-northeast-2.aws.ce.redhat.com/pulp/content/. </a> <br>
