@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1155"> Connection Factory </a> <br><a href ="https://bsssss.tistory.com/1129"> [AWS] -bash: /home/ec2-user/.local/bin/aws: /usr/bin/python3: bad interpreter: No such file or directory </a> <br><a href ="https://bsssss.tistory.com/1128"> [AWS] Missing credentials - please check if this instance was started with an IAM instance profile </a> <br>
+<a href ="https://bsssss.tistory.com/1123"> [AWS error]COMMAND_EXECUTION_ERROR: Error while executing command: aws s3 cp --recursive dist/ s3://filename/. Reason: exit status 255 </a> <br><a href ="https://bsssss.tistory.com/1155"> Connection Factory </a> <br><a href ="https://bsssss.tistory.com/1129"> [AWS] -bash: /home/ec2-user/.local/bin/aws: /usr/bin/python3: bad interpreter: No such file or directory </a> <br>
