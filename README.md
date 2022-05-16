@@ -22,4 +22,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1123"> [AWS error]COMMAND_EXECUTION_ERROR: Error while executing command: aws s3 cp --recursive dist/ s3://filename/. Reason: exit status 255 </a> <br><a href ="https://bsssss.tistory.com/1155"> Connection Factory </a> <br><a href ="https://bsssss.tistory.com/1129"> [AWS] -bash: /home/ec2-user/.local/bin/aws: /usr/bin/python3: bad interpreter: No such file or directory </a> <br>
+<a href ="https://bsssss.tistory.com/1157"> [java] BigDecimal error : Non-terminating decimal expansion; no exact representable decimal result. </a> <br><a href ="https://bsssss.tistory.com/1156"> [codeDeploy] bundle.tar has zero size. Did you mean to pass the create flag? </a> <br><a href ="https://bsssss.tistory.com/1123"> [AWS error]COMMAND_EXECUTION_ERROR: Error while executing command: aws s3 cp --recursive dist/ s3://filename/. Reason: exit status 255 </a> <br>
