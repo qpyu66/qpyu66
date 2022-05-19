@@ -11,10 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=qpyu66&hide=stars,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
-<div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpyu66&layout=compact"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-     </div>
 
 ###  💁‍♀️ About Me  
 <p align="center">
