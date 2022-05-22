@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1163"> [AWS] codepipeline github 계정 연결하기 </a> <br><a href ="https://bsssss.tistory.com/1157"> [java] BigDecimal error : Non-terminating decimal expansion; no exact representable decimal result. </a> <br><a href ="https://bsssss.tistory.com/1156"> [codeDeploy] bundle.tar has zero size. Did you mean to pass the create flag? </a> <br>
+<a href ="https://bsssss.tistory.com/1165"> [AWS] codedeploy-agent 사용 시 ec2의 용량 관리 </a> <br><a href ="https://bsssss.tistory.com/1163"> [AWS] codepipeline github 계정 연결하기 </a> <br><a href ="https://bsssss.tistory.com/1157"> [java] BigDecimal error : Non-terminating decimal expansion; no exact representable decimal result. </a> <br>
