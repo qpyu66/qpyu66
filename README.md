@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1165"> [AWS] codedeploy-agent 사용 시 ec2의 용량 관리 </a> <br><a href ="https://bsssss.tistory.com/1163"> [AWS] codepipeline github 계정 연결하기 </a> <br><a href ="https://bsssss.tistory.com/1157"> [java] BigDecimal error : Non-terminating decimal expansion; no exact representable decimal result. </a> <br>
+<a href ="https://bsssss.tistory.com/1164"> [linux] 리눅스 서버, 파일 삭제 후에도 디스크 용량이 확보되지 않을 때 </a> <br><a href ="https://bsssss.tistory.com/1165"> [AWS] codedeploy-agent 사용 시 ec2의 용량 관리 </a> <br><a href ="https://bsssss.tistory.com/1163"> [AWS] codepipeline github 계정 연결하기 </a> <br>
