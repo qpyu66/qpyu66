@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1175"> jenkins github 연결하기 </a> <br><a href ="https://bsssss.tistory.com/1176"> [Docker] Docker 사용해서 Jenkins 젠킨스 설치하기 </a> <br><a href ="https://bsssss.tistory.com/1173"> [AWS] ec2 볼륨 수정 </a> <br>
+<a href ="https://bsssss.tistory.com/1178"> [AWS] CodeDeploy Error - The overall deployment failed because too many individual instances failed deployment, too few healthy instances are available for deployment, or some instances in your deployment group are experiencing problems. </a> <br><a href ="https://bsssss.tistory.com/1175"> jenkins github 연결하기 </a> <br><a href ="https://bsssss.tistory.com/1176"> [Docker] Docker 사용해서 Jenkins 젠킨스 설치하기 </a> <br>
