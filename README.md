@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1193"> [AWS] Codedeploy AllowTraffic 에서 무한 로딩 후 배포 실패 </a> <br><a href ="https://bsssss.tistory.com/1189"> [AWS]  EC2 메모리 부족 현상 - swap 생성 </a> <br><a href ="https://bsssss.tistory.com/1188"> [AWS] Codepipeline The provided role does not have sufficient permissions. </a> <br>
+<a href ="https://bsssss.tistory.com/1194"> [AWS] CodeDeploy BlockTraffic 로딩 시간 지연 </a> <br><a href ="https://bsssss.tistory.com/1193"> [AWS] Codedeploy AllowTraffic 에서 무한 로딩 후 배포 실패 </a> <br><a href ="https://bsssss.tistory.com/1189"> [AWS]  EC2 메모리 부족 현상 - swap 생성 </a> <br>
