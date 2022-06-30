@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1205"> [AWS] CodeBuild, CodeDeploy 결과 Slack으로 알림 전송하기 - AWS Chatbot </a> <br><a href ="https://bsssss.tistory.com/1194"> [AWS] CodeDeploy BlockTraffic 로딩 시간 지연 </a> <br><a href ="https://bsssss.tistory.com/1196"> [AWS] [2] codepipeline으로 Github+ CodeBuild + CodeDeploy  생성하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1205"> [AWS] CodeBuild, CodeDeploy 결과 Slack으로 알림 전송하기 - AWS Chatbot </a> <br><a href ="https://bsssss.tistory.com/1204"> [AWS] [3] codepipeline으로 Github+ CodeBuild + CodeDeploy  생성하기 </a> <br><a href ="https://bsssss.tistory.com/1194"> [AWS] CodeDeploy BlockTraffic 로딩 시간 지연 </a> <br>
