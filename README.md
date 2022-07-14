@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1218"> [php] result_array() and row_array() </a> <br><a href ="https://bsssss.tistory.com/1225"> [용어] Metric 메트릭 </a> <br><a href ="https://bsssss.tistory.com/1223"> [php] What does this mean in PHP: -> or => </a> <br>
+<a href ="https://bsssss.tistory.com/1231"> PHP , JAVA 장단점 </a> <br><a href ="https://bsssss.tistory.com/1218"> [php] result_array() and row_array() </a> <br><a href ="https://bsssss.tistory.com/1225"> [용어] Metric 메트릭 </a> <br>
