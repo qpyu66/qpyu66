@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1234"> [AWS] 리전(Region), 가용 영역(Availability Zone) </a> <br><a href ="https://bsssss.tistory.com/1230"> [AWS] ACM SSL 인증서 발급 받기, 갱신하기 </a> <br><a href ="https://bsssss.tistory.com/1229"> 웹호스팅 / 서버호스팅 / 클라우드 차이점 </a> <br>
+<a href ="https://bsssss.tistory.com/1236"> [Linux] unzip: command not found - unzip 설치하기 </a> <br><a href ="https://bsssss.tistory.com/1234"> [AWS] 리전(Region), 가용 영역(Availability Zone) </a> <br><a href ="https://bsssss.tistory.com/1230"> [AWS] ACM SSL 인증서 발급 받기, 갱신하기 </a> <br>
