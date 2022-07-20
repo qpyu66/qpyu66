@@ -10,8 +10,8 @@
 <div id="main" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=qpyu66&count_private=true&show_icons=true&theme=radical"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpyu66&layout=compact"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+\<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpyu66&layout=compact"   
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
 </div>
 
 ###  💁‍♀️ About Me  
@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1236"> [Linux] unzip: command not found - unzip 설치하기 </a> <br><a href ="https://bsssss.tistory.com/1234"> [AWS] 리전(Region), 가용 영역(Availability Zone) </a> <br><a href ="https://bsssss.tistory.com/1230"> [AWS] ACM SSL 인증서 발급 받기, 갱신하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1237"> [AWS] ALB , NLB, GWLB </a> <br><a href ="https://bsssss.tistory.com/1236"> [Linux] unzip: command not found - unzip 설치하기 </a> <br><a href ="https://bsssss.tistory.com/1234"> [AWS] 리전(Region), 가용 영역(Availability Zone) </a> <br>
