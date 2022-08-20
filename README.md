@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1244"> [PHP]  PHP 값이 배열 안에 존재하는지 확인하기 in_array() </a> <br><a href ="https://bsssss.tistory.com/1233"> [AWS] ECS 사용하기 - ECS Cluster 생성 및 구성 </a> <br><a href ="https://bsssss.tistory.com/1237"> [AWS] ALB , NLB, GWLB </a> <br>
+<a href ="https://bsssss.tistory.com/1242"> MySQL EXPLAIN 실행 계획 보기 (최적화하기) </a> <br><a href ="https://bsssss.tistory.com/1244"> [PHP]  PHP 값이 배열 안에 존재하는지 확인하기 in_array() </a> <br><a href ="https://bsssss.tistory.com/1233"> [AWS] ECS 사용하기 - ECS Cluster 생성 및 구성 </a> <br>
