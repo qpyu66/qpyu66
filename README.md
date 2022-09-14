@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1246"> YAML (YML) 문법 정리 </a> <br><a href ="https://bsssss.tistory.com/1242"> MySQL EXPLAIN 실행 계획 보기 (쿼리 최적화 하기) </a> <br><a href ="https://bsssss.tistory.com/1244"> [PHP]  PHP 값이 배열 안에 존재하는지 확인하기 in_array() </a> <br>
+<a href ="https://bsssss.tistory.com/1255"> [JPA] 최범균님 <JPA 기초> 내용 정리하기 </a> <br><a href ="https://bsssss.tistory.com/1246"> YAML (YML) 문법 정리 </a> <br><a href ="https://bsssss.tistory.com/1242"> MySQL EXPLAIN 실행 계획 보기 (쿼리 최적화 하기) </a> <br>
