@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1259"> [JPA] Collection 컬렉션 (Collection, List, Set, List+@OrderColumn) </a> <br><a href ="https://bsssss.tistory.com/1257"> [JPA] @Embedded, @Embeddable </a> <br><a href ="https://bsssss.tistory.com/1256"> [JAVA] 오버로딩, 오버라이딩 </a> <br>
+<a href ="https://bsssss.tistory.com/1259"> [JPA] Collection 컬렉션 (Collection, List, Set, List+@OrderColumn) </a> <br><a href ="https://bsssss.tistory.com/1258"> [JPA] Optional </a> <br><a href ="https://bsssss.tistory.com/1257"> [JPA] @Embedded, @Embeddable </a> <br>
