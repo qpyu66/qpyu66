@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1261"> [spring] swagger2로 API 명세서 만들기 </a> <br><a href ="https://bsssss.tistory.com/1259"> [JPA] Collection 컬렉션 (Collection, List, Set, List+@OrderColumn) </a> <br><a href ="https://bsssss.tistory.com/1258"> [JPA] Optional </a> <br>
+<a href ="https://bsssss.tistory.com/1269"> [mysql] Failed to determine a suitable driver class </a> <br><a href ="https://bsssss.tistory.com/1261"> [spring] swagger2로 API 명세서 만들기 </a> <br><a href ="https://bsssss.tistory.com/1259"> [JPA] Collection 컬렉션 (Collection, List, Set, List+@OrderColumn) </a> <br>
