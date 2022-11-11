@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1270"> [Spring Security] The signing key's size is 40 bits which is not secure enough for the HS512 algorithm. </a> <br><a href ="https://bsssss.tistory.com/1269"> [mysql] Failed to determine a suitable driver class </a> <br><a href ="https://bsssss.tistory.com/1261"> [spring] swagger2로 API 명세서 만들기 </a> <br>
+<a href ="https://bsssss.tistory.com/1271"> [Spring Swagger3.0] Failed to start bean 'documentationPluginsBootstrapper'; nested exception is java.lang.NullPointerException </a> <br><a href ="https://bsssss.tistory.com/1270"> [Spring Security] The signing key's size is 40 bits which is not secure enough for the HS512 algorithm. </a> <br><a href ="https://bsssss.tistory.com/1269"> [mysql] Failed to determine a suitable driver class </a> <br>
