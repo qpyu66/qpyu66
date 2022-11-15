@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1272"> [Spring Swagger3.0] spring boot에 Swagger 3.0 실습 예제 </a> <br><a href ="https://bsssss.tistory.com/1271"> [Spring Swagger3.0] Failed to start bean 'documentationPluginsBootstrapper'; nested exception is java.lang.NullPointerException </a> <br><a href ="https://bsssss.tistory.com/1270"> [Spring Security] The signing key's size is 40 bits which is not secure enough for the HS512 algorithm. </a> <br>
+<a href ="https://bsssss.tistory.com/1273"> [Spring Security] Consider defining a bean of type 'org.springframework.security.core.userdetails.UserDetailsService' in your configuration. </a> <br><a href ="https://bsssss.tistory.com/1275"> [MacOS] mac에서 특정 포트 강제 종료하기 (Unix, Linux) </a> <br><a href ="https://bsssss.tistory.com/1272"> [Spring Swagger3.0] spring boot에 Swagger 3.0 실습 예제 </a> <br>
