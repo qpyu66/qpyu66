@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1280"> [Spring Boot] JPA Specification 이용하여 다중 검색 조건 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1276"> [git] fatal: will not add file alias 'filename' ('filename' already exists in index) </a> <br><a href ="https://bsssss.tistory.com/1273"> [Spring Security] Consider defining a bean of type 'org.springframework.security.core.userdetails.UserDetailsService' in your configuration. </a> <br>
+<a href ="https://bsssss.tistory.com/1281"> [Spring boot] modelMapper 에러 - required a bean of type 'org.modelmapper.ModelMapper' that could not be found. </a> <br><a href ="https://bsssss.tistory.com/1280"> [Spring Boot] JPA Specification 이용하여 다중 검색 조건 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1276"> [git] fatal: will not add file alias 'filename' ('filename' already exists in index) </a> <br>
