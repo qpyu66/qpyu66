@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1288"> [spring jpa] repository 에서 가장 상위에 있는 id값 가져오기 </a> <br><a href ="https://bsssss.tistory.com/1286"> [Spring Boot] (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator) </a> <br><a href ="https://bsssss.tistory.com/1282"> [Intellij] import문 자동정리 </a> <br>
+<a href ="https://bsssss.tistory.com/1291"> [JPA] object references an unsaved transient instance - save the transient instance before flushing </a> <br><a href ="https://bsssss.tistory.com/1288"> [spring jpa] repository 에서 가장 상위에 있는 id값 가져오기 </a> <br><a href ="https://bsssss.tistory.com/1286"> [Spring Boot] (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator) </a> <br>
