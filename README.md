@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1302"> [spring] Failed to convert value of type 'java.lang.String' to required type 'java.time.LocalDateTime' </a> <br><a href ="https://bsssss.tistory.com/1297"> [spring] @AuthenticationPrincipal 권한 비교 </a> <br><a href ="https://bsssss.tistory.com/1291"> [JPA] object references an unsaved transient instance - save the transient instance before flushing </a> <br>
+<a href ="https://bsssss.tistory.com/1303"> [Spring] JPA repository 에서 count 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1302"> [spring] Failed to convert value of type 'java.lang.String' to required type 'java.time.LocalDateTime' </a> <br><a href ="https://bsssss.tistory.com/1297"> [spring] @AuthenticationPrincipal 권한 비교 </a> <br>
