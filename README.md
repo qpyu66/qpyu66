@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1310"> [sql] functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by </a> <br><a href ="https://bsssss.tistory.com/1303"> [Spring] JPA repository 에서 count 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1302"> [spring] Failed to convert value of type 'java.lang.String' to required type 'java.time.LocalDateTime' </a> <br>
+<a href ="https://bsssss.tistory.com/1313"> [Java] 자바 실행 시간 측정 </a> <br><a href ="https://bsssss.tistory.com/1312"> [java] java stream filter and return string </a> <br><a href ="https://bsssss.tistory.com/1311"> [java] java stream 으로 합계(sum) 구하기 </a> <br>
