@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1320"> [MySQL] MySQL에 csv 파일 INSERT 하기 </a> <br><a href ="https://bsssss.tistory.com/1318"> [spring] api 호출 시 response, request 값 로그에 출력하기 - AOP 활용한 logging 출력 </a> <br><a href ="https://bsssss.tistory.com/1319"> [구글 스프레드 시트] SUBSTITUE 함수 사용해 문자 변환 </a> <br>
+<a href ="https://bsssss.tistory.com/1321"> [k8s] node-shell (Github Plugins) </a> <br><a href ="https://bsssss.tistory.com/1320"> [MySQL] MySQL에 csv 파일 INSERT 하기 </a> <br><a href ="https://bsssss.tistory.com/1318"> [spring] api 호출 시 response, request 값 로그에 출력하기 - AOP 활용한 logging 출력 </a> <br>
