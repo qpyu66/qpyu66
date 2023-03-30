@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1321"> [k8s] node-shell (Github Plugins) </a> <br><a href ="https://bsssss.tistory.com/1320"> [MySQL] MySQL에 csv 파일 INSERT 하기 </a> <br><a href ="https://bsssss.tistory.com/1318"> [spring] api 호출 시 response, request 값 로그에 출력하기 - AOP 활용한 logging 출력 </a> <br>
+<a href ="https://bsssss.tistory.com/1322"> [k8s] 쿠버네티스 Job, CronJob </a> <br><a href ="https://bsssss.tistory.com/1321"> [k8s] node-shell (Github Plugins) </a> <br><a href ="https://bsssss.tistory.com/1320"> [MySQL] MySQL에 csv 파일 INSERT 하기 </a> <br>
