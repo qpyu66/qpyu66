@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1322"> [k8s] 쿠버네티스 Job, CronJob </a> <br><a href ="https://bsssss.tistory.com/1321"> [k8s] node-shell (Github Plugins) </a> <br><a href ="https://bsssss.tistory.com/1320"> [MySQL] MySQL에 csv 파일 INSERT 하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1327"> mac에 iterm2 설치해 터미널 커스텀하기 </a> <br><a href ="https://bsssss.tistory.com/1322"> [k8s] 쿠버네티스 Job, CronJob </a> <br><a href ="https://bsssss.tistory.com/1321"> [k8s] node-shell (Github Plugins) </a> <br>
