@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1336"> [MySQL] utf8mb4_general_ci와 utf8mb4_0900_ai_ci 차이 </a> <br><a href ="https://bsssss.tistory.com/1327"> mac에 iterm2 설치해 터미널 커스텀하기 </a> <br><a href ="https://bsssss.tistory.com/1322"> [k8s] 쿠버네티스 Job, CronJob </a> <br>
+<a href ="https://bsssss.tistory.com/1341"> [Spring Error] nested exception is java.lang.IllegalArgumentException: Could not locate appropriate constructor on class </a> <br><a href ="https://bsssss.tistory.com/1338"> [Mac] Mac 에서 mysql 버전 확인하기 </a> <br><a href ="https://bsssss.tistory.com/1336"> [MySQL] utf8mb4_general_ci와 utf8mb4_0900_ai_ci 차이 및 캐릭터셋 변경하기 </a> <br>
