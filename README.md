@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1341"> [Spring Error] nested exception is java.lang.IllegalArgumentException: Could not locate appropriate constructor on class </a> <br><a href ="https://bsssss.tistory.com/1338"> [Mac] Mac 에서 mysql 버전 확인하기 </a> <br><a href ="https://bsssss.tistory.com/1336"> [MySQL] utf8mb4_general_ci와 utf8mb4_0900_ai_ci 차이 및 캐릭터셋 변경하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1339"> [Helm] Mac에 Helm 설치하기 </a> <br><a href ="https://bsssss.tistory.com/1341"> [Spring Error] nested exception is java.lang.IllegalArgumentException: Could not locate appropriate constructor on class </a> <br><a href ="https://bsssss.tistory.com/1338"> [Mac] Mac 에서 mysql 버전 확인하기 </a> <br>
