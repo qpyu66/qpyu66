@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1340"> [Helm] helm 으로 Grafana 설치하고 redis 연결하기 </a> <br><a href ="https://bsssss.tistory.com/1339"> [Helm] Mac에 Helm 설치하기 </a> <br><a href ="https://bsssss.tistory.com/1341"> [Spring Error] nested exception is java.lang.IllegalArgumentException: Could not locate appropriate constructor on class </a> <br>
+<a href ="https://bsssss.tistory.com/1342"> [여행/태국] 해외에서 트래블월렛으로 교통카드 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1343"> [여행/태국] 방콕 족발덮밥 짜런쌩실롬 배달하기 </a> <br><a href ="https://bsssss.tistory.com/1340"> [Helm] helm 으로 Grafana, Redis 설치하고 Grafana에 Redis 연결하기 </a> <br>
