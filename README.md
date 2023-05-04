@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1342"> [여행/태국] 해외에서 트래블월렛으로 교통카드 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1343"> [여행/태국] 방콕 족발덮밥 짜런쌩실롬 배달하기 </a> <br><a href ="https://bsssss.tistory.com/1340"> [Helm] helm 으로 Grafana, Redis 설치하고 Grafana에 Redis 연결하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1348"> Kubernetes Service 포트 - NodePort, port, targetPort </a> <br><a href ="https://bsssss.tistory.com/1347"> Mac OS brew uninstall 오류/ Mac OS 패키지 삭제 - Error: No such keg: /opt/homebrew/Cellar/redis </a> <br><a href ="https://bsssss.tistory.com/1342"> [여행/태국] 해외에서 트래블월렛으로 교통카드 사용하기 </a> <br>
