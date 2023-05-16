@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1357"> [DKT CKA Study] 5Day - 2023.05.10 </a> <br><a href ="https://bsssss.tistory.com/1348"> Kubernetes Service 포트 - NodePort, port, targetPort </a> <br><a href ="https://bsssss.tistory.com/1347"> Mac OS brew uninstall 오류/ Mac OS 패키지 삭제 - Error: No such keg: /opt/homebrew/Cellar/redis </a> <br>
+<a href ="https://bsssss.tistory.com/1360"> [비공개 문제풀이]cka -  따배쿠 01. ETCD Backup & Restore </a> <br><a href ="https://bsssss.tistory.com/1357"> [DKT CKA Study] 5Day - 2023.05.10 </a> <br><a href ="https://bsssss.tistory.com/1348"> Kubernetes Service 포트 - NodePort, port, targetPort </a> <br>
