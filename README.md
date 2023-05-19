@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1360"> [비공개 문제풀이]cka -  따배쿠 01. ETCD Backup & Restore </a> <br><a href ="https://bsssss.tistory.com/1357"> [DKT CKA Study] 5Day - 2023.05.10 </a> <br><a href ="https://bsssss.tistory.com/1348"> Kubernetes Service 포트 - NodePort, port, targetPort </a> <br>
+<a href ="https://bsssss.tistory.com/1367"> [JPA] COALESCE - @Query에서 sum()사용시 Null 을 0으로 </a> <br><a href ="https://bsssss.tistory.com/1365"> [kubernetes] cordon, uncordon, drain </a> <br><a href ="https://bsssss.tistory.com/1363"> [kubernetes] kube-proxy란 </a> <br>
