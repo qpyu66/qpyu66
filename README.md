@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1367"> [JPA] COALESCE - @Query에서 sum()사용시 Null 을 0으로 </a> <br><a href ="https://bsssss.tistory.com/1365"> [kubernetes] cordon, uncordon, drain </a> <br><a href ="https://bsssss.tistory.com/1363"> [kubernetes] kube-proxy란 </a> <br>
+<a href ="https://bsssss.tistory.com/1367"> [JPA] COALESCE - @Query에서 sum()사용시 Null 을 0으로 </a> <br><a href ="https://bsssss.tistory.com/1365"> [kubernetes] cordon, uncordon, drain </a> <br><a href ="https://bsssss.tistory.com/1364"> [CKA] 문제풀이 - Cluster Upgrade - only Master </a> <br>
