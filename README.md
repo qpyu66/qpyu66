@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1384"> [Mac] iterm2 단축키 </a> <br><a href ="https://bsssss.tistory.com/1380"> [DKT CKA Study] 8Day - 2023.05.30 </a> <br><a href ="https://bsssss.tistory.com/1377"> [CKA] kubectl JSON Path 사용법 </a> <br>
+<a href ="https://bsssss.tistory.com/1387"> [k8s] CKA 준비 - Network Policy </a> <br><a href ="https://bsssss.tistory.com/1384"> [Mac] iterm2 단축키 </a> <br><a href ="https://bsssss.tistory.com/1380"> [DKT CKA Study] 8Day - 2023.05.30 </a> <br>
