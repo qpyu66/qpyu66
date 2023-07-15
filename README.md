@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1387"> [k8s] CKA 준비 - Network Policy </a> <br><a href ="https://bsssss.tistory.com/1384"> [Mac] iterm2 단축키 </a> <br><a href ="https://bsssss.tistory.com/1380"> [DKT CKA Study] 8Day - 2023.05.30 </a> <br>
+<a href ="https://bsssss.tistory.com/1391"> [MySql] 다른 테이블과 조인해서 UPDATE 하는 방법 </a> <br><a href ="https://bsssss.tistory.com/1389"> [웨비나] Bootiful Spring in Summer with Josh Long </a> <br><a href ="https://bsssss.tistory.com/1387"> [k8s] CKA 준비 - Network Policy </a> <br>
