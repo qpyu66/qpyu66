@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1365"> [kubernetes] cordon, uncordon, drain, taint </a> <br><a href ="https://bsssss.tistory.com/1391"> [MySql] 다른 테이블과 조인해서 UPDATE 하는 방법 </a> <br><a href ="https://bsssss.tistory.com/1389"> [웨비나] Bootiful Spring in Summer with Josh Long </a> <br>
+<a href ="https://bsssss.tistory.com/1381"> [CKA] Udemy - Mock Exam1 문제풀이 </a> <br><a href ="https://bsssss.tistory.com/1365"> [kubernetes] cordon, uncordon, drain, taint </a> <br><a href ="https://bsssss.tistory.com/1391"> [MySql] 다른 테이블과 조인해서 UPDATE 하는 방법 </a> <br>
