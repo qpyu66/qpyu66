@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1382"> [CKA] Udemy - Mock Exam2 문제풀이 </a> <br><a href ="https://bsssss.tistory.com/1381"> [CKA] Udemy - Mock Exam1 문제풀이 </a> <br><a href ="https://bsssss.tistory.com/1365"> [kubernetes] cordon, uncordon, drain, taint </a> <br>
+<a href ="https://bsssss.tistory.com/1397"> [MySQL] InnoDB란 </a> <br><a href ="https://bsssss.tistory.com/1382"> [CKA] Udemy - Mock Exam2 문제풀이 </a> <br><a href ="https://bsssss.tistory.com/1381"> [CKA] Udemy - Mock Exam1 문제풀이 </a> <br>
