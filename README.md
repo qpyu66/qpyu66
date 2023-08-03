@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1397"> [MySQL] InnoDB란 </a> <br><a href ="https://bsssss.tistory.com/1382"> [CKA] Udemy - Mock Exam2 문제풀이 </a> <br><a href ="https://bsssss.tistory.com/1381"> [CKA] Udemy - Mock Exam1 문제풀이 </a> <br>
+<a href ="https://bsssss.tistory.com/1393"> 실전! 스프링 데이터 JPA 내용 정리 - 섹션 4(1) </a> <br><a href ="https://bsssss.tistory.com/1397"> [MySQL] InnoDB란 </a> <br><a href ="https://bsssss.tistory.com/1382"> [CKA] Udemy - Mock Exam2 문제풀이 </a> <br>
