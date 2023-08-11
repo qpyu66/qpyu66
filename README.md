@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1398"> [JPA] List to Page - List를 Page로 변환해서 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1383"> [CKA] Udemy - Mock Exam3 문제풀이 </a> <br><a href ="https://bsssss.tistory.com/1404"> [JPA] JsonMappingException: Infinite recursion (StackOverflowError) 오류 </a> <br>
+<a href ="https://bsssss.tistory.com/1408"> [Spring] Spring HATEOAS란 </a> <br><a href ="https://bsssss.tistory.com/1398"> [JPA] List to Page - List를 Page로 변환해서 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1383"> [CKA] Udemy - Mock Exam3 문제풀이 </a> <br>
