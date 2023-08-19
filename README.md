@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1412"> [Spring] Swagger Error - Failed to load API definition. </a> <br><a href ="https://bsssss.tistory.com/1408"> [Spring] Spring HATEOAS란 </a> <br><a href ="https://bsssss.tistory.com/1398"> [JPA] List to Page - List를 Page로 변환해서 사용하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1412"> [Spring] Swagger Error - Failed to load API definition. </a> <br><a href ="https://bsssss.tistory.com/1413"> [JPA] Swagger Error - [Request processing failed; nested exception is java.lang.NullPointerException] with root cause </a> <br><a href ="https://bsssss.tistory.com/1408"> [Spring] Spring HATEOAS란 </a> <br>
