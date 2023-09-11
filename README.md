@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1421"> Docker를 사용해 mysql 설치하고 원격접속하기 </a> <br><a href ="https://bsssss.tistory.com/1416"> [DB] MySQL 샘플 데이터 </a> <br><a href ="https://bsssss.tistory.com/624"> [SQL 튜닝] 옵티마이저(optimizer) </a> <br>
+<a href ="https://bsssss.tistory.com/1419"> [SQL] IN, EXISTS 비교 및 속도 비교 </a> <br><a href ="https://bsssss.tistory.com/1421"> Docker를 사용해 mysql 설치하고 원격접속하기 </a> <br><a href ="https://bsssss.tistory.com/1416"> [DB] MySQL 샘플 데이터 </a> <br>
