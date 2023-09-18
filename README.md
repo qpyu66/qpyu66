@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1411"> [Spring Batch] @JobScope 와 @StepScope 개념 및 예제 </a> <br><a href ="https://bsssss.tistory.com/1422"> [SQL] MySQL 5.7버전과 8.0버전 차이점, 8.0 업그레이드 </a> <br><a href ="https://bsssss.tistory.com/1419"> [SQL] IN, EXISTS 비교 및 속도 비교 </a> <br>
+<a href ="https://bsssss.tistory.com/1422"> [SQL] MySQL 5.7버전과 8.0버전 차이점, 8.0 업그레이드 </a> <br><a href ="https://bsssss.tistory.com/1419"> [SQL] IN, EXISTS 비교 및 속도 비교 </a> <br><a href ="https://bsssss.tistory.com/1421"> Docker를 사용해 mysql 설치하고 원격접속하기 </a> <br>
