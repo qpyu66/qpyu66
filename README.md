@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1410"> [Spring Batch] Spring Batch 기본 개념 및 용어 정리 </a> <br><a href ="https://bsssss.tistory.com/1411"> [Spring Batch] @JobScope 와 @StepScope 개념 및 예제 </a> <br><a href ="https://bsssss.tistory.com/1425"> [Spring] Could not resolve placeholder 'datasource.host' in value </a> <br>
+<a href ="https://bsssss.tistory.com/1423"> [Spring] jasypt 사용하기 </a> <br><a href ="https://bsssss.tistory.com/1410"> [Spring Batch] Spring Batch 기본 개념 및 용어 정리 </a> <br><a href ="https://bsssss.tistory.com/1411"> [Spring Batch] @JobScope 와 @StepScope 개념 및 예제 </a> <br>
