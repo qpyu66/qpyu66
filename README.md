@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1434"> [GitHub] GitHub 인증 오류 해결 : https-urls for information on currently recommended modes of authentication. </a> <br><a href ="https://bsssss.tistory.com/1429"> [AWS] EC2 ssh 접속 오류  bad permissions /  Permission denied (publickey,gssapi-keyex,gssapi-with-mic). </a> <br><a href ="https://bsssss.tistory.com/1423"> [Spring] jasypt 사용하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1432"> [AWS] EC2 인스턴스에 Public DNS 부여하기 </a> <br><a href ="https://bsssss.tistory.com/1434"> [GitHub] GitHub 인증 오류 해결 : https-urls for information on currently recommended modes of authentication. </a> <br><a href ="https://bsssss.tistory.com/1429"> [AWS] EC2 ssh 접속 오류  bad permissions /  Permission denied (publickey,gssapi-keyex,gssapi-with-mic). </a> <br>
