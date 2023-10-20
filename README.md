@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1432"> [AWS] EC2 인스턴스에 Public DNS 부여하기 </a> <br><a href ="https://bsssss.tistory.com/1434"> [GitHub] GitHub 인증 오류 해결 : https-urls for information on currently recommended modes of authentication. </a> <br><a href ="https://bsssss.tistory.com/1429"> [AWS] EC2 ssh 접속 오류  bad permissions /  Permission denied (publickey,gssapi-keyex,gssapi-with-mic). </a> <br>
+<a href ="https://bsssss.tistory.com/1440"> [AWS] CodeDeploy 배포 오류 - The overall deployment failed because too many individual instances failed deployment, too few healthy instances are available for deployment, or some instances in your deployment group are experiencing problems. </a> <br><a href ="https://bsssss.tistory.com/1445"> [AWS] CodeDeploy ApplicationStop 에러 - CodeDeploy agent was not able to receive the lifecycle event. Check the CodeDeploy agent logs on your host and make sure the agent is running and can connect to the CodeDeploy server. </a> <br><a href ="https://bsssss.tistory.com/1432"> [AWS] EC2 인스턴스에 Public DNS 부여하기 </a> <br>
