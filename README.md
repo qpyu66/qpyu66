@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1431"> [AWS] EC2 SSH 연결 하기 네트워크,라우팅 설정 (22포트 연결 안됨) </a> <br><a href ="https://bsssss.tistory.com/1441"> [AWS] EC2 linux3 java 설치 </a> <br><a href ="https://bsssss.tistory.com/1440"> [AWS] CodeDeploy 배포 오류 - The overall deployment failed because too many individual instances failed deployment, too few healthy instances are available for deployment, or some instances in your deployment group are experiencing problems. </a> <br>
+<a href ="https://bsssss.tistory.com/1443"> [Docker] 이미지 빌드 플랫폼 호환성 관련 에러 - The requested image's platform (linux/arm64/v8) does not match the detected host platform (linux/amd64/v3) and no specific platform was requested </a> <br><a href ="https://bsssss.tistory.com/1431"> [AWS] EC2 SSH 연결 하기 네트워크,라우팅 설정 (22포트 연결 안됨) </a> <br><a href ="https://bsssss.tistory.com/1441"> [AWS] EC2 linux3 java 설치 </a> <br>
