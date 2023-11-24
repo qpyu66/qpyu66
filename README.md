@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1454"> [AWS] EC2 안에 있는 RDS 에 DBeaver SSH 사용해서 접속하기 </a> <br><a href ="https://bsssss.tistory.com/1436"> [AWS] AWS EC2 Docker 접근 오류 : permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: </a> <br><a href ="https://bsssss.tistory.com/1435"> [AWS] ECR error - An error occurred (UnrecognizedClientException) when calling the GetAuthorizationToken operation: The security token included in the request is invalid. </a> <br>
+<a href ="https://bsssss.tistory.com/1456"> [javascript] 이전 페이지 URL 확인하기 console.log(document.referrer) </a> <br><a href ="https://bsssss.tistory.com/1454"> [AWS] EC2 안에 있는 RDS 에 DBeaver SSH 사용해서 접속하기 </a> <br><a href ="https://bsssss.tistory.com/1436"> [AWS] AWS EC2 Docker 접근 오류 : permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: </a> <br>
