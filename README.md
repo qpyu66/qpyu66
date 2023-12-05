@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1456"> [javascript] 이전 페이지 URL 확인하기 console.log(document.referrer) </a> <br><a href ="https://bsssss.tistory.com/1454"> [AWS] EC2 안에 있는 RDS 에 DBeaver SSH 사용해서 접속하기 </a> <br><a href ="https://bsssss.tistory.com/1436"> [AWS] AWS EC2 Docker 접근 오류 : permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: </a> <br>
+<a href ="https://bsssss.tistory.com/1458"> [스프레드 시트] 구글 스프레드 시트에서 다른 시트에 있는 데이터를 원하는 데이터 추출하기 (모두 찾기/전체 검색) </a> <br><a href ="https://bsssss.tistory.com/1456"> [javascript] 이전 페이지 URL 확인하기 console.log(document.referrer) </a> <br><a href ="https://bsssss.tistory.com/1454"> [AWS] EC2 안에 있는 RDS 에 DBeaver SSH 사용해서 접속하기 </a> <br>
