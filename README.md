@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1463"> [Mysql] Docker 환경에서 mysql 설치 후 접속 에러 - Access denied for user 'root'@'172.17.0.1' (using password: YES) </a> <br><a href ="https://bsssss.tistory.com/1459"> [Git] master -> main 합치기 (덮어쓰기) </a> <br><a href ="https://bsssss.tistory.com/1458"> [스프레드 시트] 구글 스프레드 시트에서 다른 시트에 있는 데이터를 원하는 데이터 추출하기 (모두 찾기/전체 검색) </a> <br>
+<a href ="https://bsssss.tistory.com/1430"> [AWS] Amazon linux 2023 에 MySQL 8.0 설치 </a> <br><a href ="https://bsssss.tistory.com/1463"> [Mysql] Docker 환경에서 mysql 설치 후 접속 에러 - Access denied for user 'root'@'172.17.0.1' (using password: YES) </a> <br><a href ="https://bsssss.tistory.com/1459"> [Git] master -> main 합치기 (덮어쓰기) </a> <br>
