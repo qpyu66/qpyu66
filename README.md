@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1430"> [AWS] Amazon linux 2023 에 MySQL 8.0 설치 </a> <br><a href ="https://bsssss.tistory.com/1463"> [Mysql] Docker 환경에서 mysql 설치 후 접속 에러 - Access denied for user 'root'@'172.17.0.1' (using password: YES) </a> <br><a href ="https://bsssss.tistory.com/1459"> [Git] master -> main 합치기 (덮어쓰기) </a> <br>
+<a href ="https://bsssss.tistory.com/1461"> [Spring] 멀티 모듈 사용하기 - 루트 프로젝트에 자식 의존성 추가하기 </a> <br><a href ="https://bsssss.tistory.com/1430"> [AWS] Amazon linux 2023 에 MySQL 8.0 설치 </a> <br><a href ="https://bsssss.tistory.com/1463"> [Mysql] Docker 환경에서 mysql 설치 후 접속 에러 - Access denied for user 'root'@'172.17.0.1' (using password: YES) </a> <br>
