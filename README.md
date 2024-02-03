@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1460"> [Spring] Spring 3버전에 Springdoc 라이브러리를 사용해 swagger 적용하기 </a> <br><a href ="https://bsssss.tistory.com/1461"> [Spring] 멀티 모듈 사용하기 - 루트 프로젝트에 자식 의존성 추가하기 </a> <br><a href ="https://bsssss.tistory.com/1430"> [AWS] Amazon linux 2023 에 MySQL 8.0 설치 </a> <br>
+<a href ="https://bsssss.tistory.com/1467"> [Git] error: The following untracked working tree files would be overwritten by checkout: </a> <br><a href ="https://bsssss.tistory.com/1460"> [Spring] Spring 3버전에 Springdoc 라이브러리를 사용해 swagger 적용하기 </a> <br><a href ="https://bsssss.tistory.com/1461"> [Spring] 멀티 모듈 사용하기 - 루트 프로젝트에 자식 의존성 추가하기 </a> <br>
