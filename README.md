@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1472"> [Querydsl] Resolved [com.querydsl.core.types.ExpressionException ~ ] </a> <br><a href ="https://bsssss.tistory.com/1467"> [Git] error: The following untracked working tree files would be overwritten by checkout: </a> <br><a href ="https://bsssss.tistory.com/1460"> [Spring] Spring 3버전에 Springdoc 라이브러리를 사용해 swagger 적용하기 </a> <br>
+<a href ="https://bsssss.tistory.com/1474"> [Gradle] Gradlew 빌드 시 gradle 다운로드 속도가 느릴 때 </a> <br><a href ="https://bsssss.tistory.com/1472"> [Querydsl] Resolved [com.querydsl.core.types.ExpressionException ~ ] </a> <br><a href ="https://bsssss.tistory.com/1467"> [Git] error: The following untracked working tree files would be overwritten by checkout: </a> <br>
