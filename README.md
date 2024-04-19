@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1475"> [Java] 스레드 로컬 - Thread Local </a> <br><a href ="https://bsssss.tistory.com/1474"> [Gradle] Gradlew 빌드 시 gradle 다운로드 속도가 느릴 때 </a> <br><a href ="https://bsssss.tistory.com/1473"> [Spring] Thread Pool - pool size설정 </a> <br>
+<a href ="https://bsssss.tistory.com/1476"> [Java] 템플릿 메서드 패턴, 전략 패턴, 템플릿 콜백 패턴 </a> <br><a href ="https://bsssss.tistory.com/1475"> [Java] 스레드 로컬 - Thread Local </a> <br><a href ="https://bsssss.tistory.com/1474"> [Gradle] Gradlew 빌드 시 gradle 다운로드 속도가 느릴 때 </a> <br>
