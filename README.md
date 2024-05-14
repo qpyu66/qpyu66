@@ -24,4 +24,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1485"> [Spring] @Aspect란, 생성 과정 설명 </a> <br><a href ="https://bsssss.tistory.com/1484"> [Spring] 빈 후처리기 </a> <br><a href ="https://bsssss.tistory.com/1482"> [Spring] 프록시 팩토리 </a> <br>
+<a href ="https://bsssss.tistory.com/1486"> [Spring] AOP 개념 및 용어 정리 </a> <br><a href ="https://bsssss.tistory.com/1485"> [Spring] @Aspect란, 생성 과정 설명 </a> <br><a href ="https://bsssss.tistory.com/1484"> [Spring] 빈 후처리기 </a> <br>
