@@ -24,4 +24,3 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://bsssss.tistory.com/1488"> [Spring] 스프링 AOP 포인트컷 </a> <br><a href ="https://bsssss.tistory.com/1487"> [Spring] Spring AOP 구현 예제 </a> <br><a href ="https://bsssss.tistory.com/1486"> [Spring] AOP 개념 및 용어 정리 </a> <br>
