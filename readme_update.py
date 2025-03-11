@@ -1,7 +1,10 @@
-import feedparser, datetime
+import feedparser
 
-tistory_uri="https://bsssss.tistory.com/" #Your blog address here
-feed = feedparser.parse(tistory_uri+"/rss")
+feed_url = "https://bsssss.tistory.com/rss"  # RSS 주소
+feed = feedparser.parse(feed_url)
+
+print(f"📡 RSS URL: {feed_url}")
+print(f"📌 Status Code: {feed.get('status', 'Unknown')}")
 
 markdown_text = """
 ### Hi there 👋   
@@ -15,8 +18,6 @@ markdown_text = """
 <div id="main" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=qpyu66&count_private=true&show_icons=true&theme=radical"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpyu66&layout=compact"   
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
 </div>
 
 ###  💁‍♀️ About Me  
@@ -28,21 +29,17 @@ markdown_text = """
 <br>
 
 ### 📕 Latest Blog Posts   
+"""
 
-""" # list of blog posts will be appended here
+if not feed.entries:
+    markdown_text += "⚠️ 블로그 글을 불러올 수 없습니다. RSS 설정을 확인해주세요. <br>\n"
+    print("⚠️ RSS 피드를 가져오지 못했습니다. RSS 주소를 확인하세요.")
+else:
+    for i in feed.entries[:3]:
+        title = i.get("title", "제목 없음")
+        link = i.get("link", "#")
+        markdown_text += f"<a href=\"{link}\"> {title} </a> <br>\n"
+        print(f"✔ {title} → {link}")
 
-lst = []
-
-
-for i in feed['entries'][:3]:
-#     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
-#     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
-#     markdown_text += f"{i['title']} {i['link']} <br>\n"
-    markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>"
-
-
-    print(i['link'], i['title'])
-
-f = open("README.md",mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(markdown_text)
