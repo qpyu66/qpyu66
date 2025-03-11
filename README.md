@@ -10,8 +10,6 @@
 <div id="main" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=qpyu66&count_private=true&show_icons=true&theme=radical"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpyu66&layout=compact"   
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
 </div>
 
 ###  💁‍♀️ About Me  
@@ -23,4 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
-
+<a href="https://bsssss.tistory.com/1540"> Spring WebFlux와 Python의 FastAPI </a> <br>
+<a href="https://bsssss.tistory.com/1541"> Spring MVC와 WebFlux </a> <br>
+<a href="https://bsssss.tistory.com/1543"> 동기 vs 비동기, 블로킹 vs 논블로킹 -  백엔드 &amp; AI 개발에서의 활용 </a> <br>
