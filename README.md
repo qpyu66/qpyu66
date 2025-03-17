@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href="https://bsssss.tistory.com/1549"> [Python] Pool, ThreadPoolExecutor 비교 </a> <br>
 <a href="https://bsssss.tistory.com/1540"> Spring WebFlux와 Python의 FastAPI </a> <br>
 <a href="https://bsssss.tistory.com/1541"> Spring MVC와 WebFlux </a> <br>
-<a href="https://bsssss.tistory.com/1543"> 동기 vs 비동기, 블로킹 vs 논블로킹 -  백엔드 &amp; AI 개발에서의 활용 </a> <br>
