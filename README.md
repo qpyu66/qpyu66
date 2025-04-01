@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href="https://bsssss.tistory.com/1554"> [Python] OpenAI 결과를 고정된 JSON 포맷(Structured Output)으로 받는 방법 </a> <br>
 <a href="https://bsssss.tistory.com/1549"> [Python] Pool, ThreadPoolExecutor 비교 </a> <br>
 <a href="https://bsssss.tistory.com/1540"> Spring WebFlux와 Python의 FastAPI </a> <br>
-<a href="https://bsssss.tistory.com/1541"> Spring MVC와 WebFlux </a> <br>
