@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
-<a href="https://bsssss.tistory.com/1576"> [Python] global, nonlocal </a> <br>
 <a href="https://bsssss.tistory.com/1562"> WebFlux를 실무에 적용할 때 고려할 점 </a> <br>
 <a href="https://bsssss.tistory.com/1559"> Langfuse란 </a> <br>
+<a href="https://bsssss.tistory.com/1557"> [Vue] onMounted, watch, watchEffect </a> <br>
