@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href="https://bsssss.tistory.com/1594"> Claude 4 프롬프트 엔지니어링 모범 사례 </a> <br>
+<a href="https://bsssss.tistory.com/1591"> python DotMap </a> <br>
 <a href="https://bsssss.tistory.com/1582"> Mac Amphetamine 잠자기 기능 방지 앱 </a> <br>
-<a href="https://bsssss.tistory.com/1580"> tmux 터미널 멀티플렉서 </a> <br>
-<a href="https://bsssss.tistory.com/1569"> oh-my-zsh 터미널에서 사용하는 git 단축키 </a> <br>
