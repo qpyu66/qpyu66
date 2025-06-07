@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href="https://bsssss.tistory.com/1611"> [python]가상환경에서 모듈 에러 ModuleNotFoundError </a> <br>
 <a href="https://bsssss.tistory.com/1594"> Claude 4 프롬프트 엔지니어링 모범 사례 </a> <br>
 <a href="https://bsssss.tistory.com/1591"> python DotMap </a> <br>
-<a href="https://bsssss.tistory.com/1582"> Mac Amphetamine 잠자기 기능 방지 앱 </a> <br>
