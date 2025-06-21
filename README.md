@@ -21,6 +21,4 @@
 <br>
 
 ### 📕 Latest Blog Posts   
-<a href="https://bsssss.tistory.com/1611"> [python]가상환경에서 모듈 에러 ModuleNotFoundError </a> <br>
-<a href="https://bsssss.tistory.com/1594"> Claude 4 프롬프트 엔지니어링 모범 사례 </a> <br>
-<a href="https://bsssss.tistory.com/1591"> python DotMap </a> <br>
+⚠️ 블로그 글을 불러올 수 없습니다. RSS 설정을 확인해주세요. <br>
