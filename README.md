@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href="https://bsssss.tistory.com/1618"> [Python] Gradio streaming, 로컬에서는 되고 왜 쿠버에서는 안 됐을까? </a> <br>
 <a href="https://bsssss.tistory.com/1617"> ENTRYPOINT vs CMD 차이점 </a> <br>
 <a href="https://bsssss.tistory.com/1614"> AI 모델 개발자들이 자주 사용하는 용어나 개념 정리 </a> <br>
-<a href="https://bsssss.tistory.com/1611"> [python]가상환경에서 모듈 에러 ModuleNotFoundError </a> <br>
