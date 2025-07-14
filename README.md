@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href="https://bsssss.tistory.com/1623"> Langfuse v2 &rarr; v3 업그레이드 시 Trace Name 공란으로 기록됨 </a> <br>
+<a href="https://bsssss.tistory.com/1621"> [Langfuse] Evaluation : LLM-as-a-Judge </a> <br>
 <a href="https://bsssss.tistory.com/1618"> [Python] Gradio streaming, 로컬환경에서는 되고 왜 쿠버환경에서는 안 됐을까? </a> <br>
-<a href="https://bsssss.tistory.com/1617"> ENTRYPOINT vs CMD 차이점 </a> <br>
-<a href="https://bsssss.tistory.com/1614"> AI 모델 개발자들이 자주 사용하는 용어나 개념 정리 </a> <br>
