@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
-<a href="https://bsssss.tistory.com/1625"> claude 와 gemini cli 같이 사용해서 token 아끼기 </a> <br>
+<a href="https://bsssss.tistory.com/1625"> Claude CLI + Gemini CLI 조합으로 토큰 절약하기(GPT 대체 가능) </a> <br>
 <a href="https://bsssss.tistory.com/1623"> Langfuse v2 &rarr; v3 업그레이드 시 Trace Name 공란으로 기록됨 </a> <br>
 <a href="https://bsssss.tistory.com/1621"> [Langfuse] Evaluation : LLM-as-a-Judge </a> <br>
