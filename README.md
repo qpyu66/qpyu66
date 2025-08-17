@@ -21,6 +21,6 @@
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href="https://bsssss.tistory.com/1643"> Serena MCP 사용해 토큰 절약하고 퀄리티 높이기 </a> <br>
 <a href="https://bsssss.tistory.com/1642"> Langfuse의 Span과 Generation의 관계 </a> <br>
 <a href="https://bsssss.tistory.com/1639"> [Python] Python 버전 지정 방식의 차이점: &quot;^3.xx&quot; vs &quot;&gt;=3.xx&quot; </a> <br>
-<a href="https://bsssss.tistory.com/1629"> [Python] 대세는 requirements.txt 대신 uv + pyproject.toml </a> <br>
